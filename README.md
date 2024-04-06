@@ -4,8 +4,6 @@ The chat app the world has been waiting for.
 
 Fast. Performant. Minimalistic design. We've reimagined what it means to chat on a computer.
 
-![short demonsrtation of this incredible chat application](https://github.com/picojun/chattler/blob/main/demo.gif)
-
 ## Getting started
 
 Starting a chat with yourself has *never* been so easy. Open two terminal windows. In one, navigate to `server` and in the other, navigate to `client`.
